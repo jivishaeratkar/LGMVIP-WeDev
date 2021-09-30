@@ -3,6 +3,6 @@
 # Task-1
 
 ## About The Task
-Creating a web page using HTML, CSS, JavaScript.
+Creating a web page using HTML, CSS.
 
 Visit Website:https://jivishatask-1lgmvip.netlify.app/
